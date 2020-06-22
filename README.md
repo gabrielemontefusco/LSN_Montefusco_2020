@@ -1,1 +1,3 @@
 # LSN_Montefusco_2020
+
+Il lavoro è suddiviso tramite cartelle per esercitazioni. All'interno di ogni cartella sono presenti uno o più main con il nome dell'esercizio (ad esempio Ex10.1.cpp o Ex8.2.cpp) per compilare è sufficiente utilizzare i makefile. Ove presenti più main il makefile è differenziato e a seguito del comando make bisogna dare il nome del main senza cpp. Alcuni esercizi utilizzano un file di input per cambiare i parametri, in ogni caso ho descritto i parametri usati all'interno di ogni jupyter. Nell'esercitazione 7 e 8 ho trovato più facile fare due sottocartelle contenenti gli esercizi 7.3 e 8.3. 
