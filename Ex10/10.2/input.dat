@@ -1,0 +1,18 @@
+32
+100
+100
+2.
+3.
+0.075
+0.5
+1000
+
+
+  ReadInput >> N_city;
+  ReadInput >> N_pop;
+  ReadInput >> N_ex;
+  ReadInput >> l;
+  ReadInput >> exp;
+  ReadInput >> Prob_mut;
+  ReadInput >> Prob_cross;
+  ReadInput >> N_iteration;
